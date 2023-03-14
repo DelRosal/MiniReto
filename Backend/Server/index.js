@@ -1,7 +1,7 @@
-const miniReto= require("miniReto");
+const express= require("express");
 const PORT= process.env.PORT || 3001;
-const app=miniReto();
+const app=express();
 
-app.listen(POORT,() =>{
+app.listen(PORT,() =>{
     console.log(`Server listening on ${PORT}`);
 });
