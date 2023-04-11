@@ -1,0 +1,22 @@
+{
+    "User1":{
+        "user_id" : "A567",
+        "name" : "Ana Luisa",
+        "first_last_name" : "Glez",
+        "second_last_name":"del Rosal",
+        "nationallity":"Mexican",
+        "state_of_birth" : "Chihuahua",
+        "born_date":"31/03/2003",
+        "gender":"Female"
+    },
+    "User2":{
+        "user_id" : "B023",
+        "name" : "Jorge",
+        "first_last_name" : "Woldburg",
+        "second_last_name":"Trujillo",
+        "nationallity":"Mexican",
+        "state_of_birth" : "Jalisco",
+        "born_date":"24/11/2003",
+        "gender":"Male"
+    }
+}
